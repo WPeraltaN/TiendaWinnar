@@ -1,0 +1,4 @@
+sombreros
+Calzados
+Vestidos
+
