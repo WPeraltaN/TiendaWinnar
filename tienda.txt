@@ -1,4 +1,5 @@
-sombreros
-Calzados
-Vestidos
+Maquillaje
+Sombreros
+Joyería
+Carteras
 
